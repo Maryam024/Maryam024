@@ -73,9 +73,9 @@ Spreadsheet application implementing core Excel functionalities using Python.
 
 ## 📈 GitHub Stats
 
-![Maryam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maryam024&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maryam024&show_icons=true&theme=github_dark&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maryam024&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maryam024&layout=compact&theme=github_dark)
 
 ---
 
