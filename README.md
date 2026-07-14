@@ -18,24 +18,19 @@ Currently exploring Vision-Language Models, Agentic AI, and Retrieval-Augmented 
 - 🌐 Scalable Full-Stack Architectures
 
 ---
-
 ## 🛠 Tech Stack
 
 ### Languages
-
-Python • JavaScript • TypeScript • Java • Kotlin • C++
+🐍 Python · 🟨 JavaScript · 🔷 TypeScript · ☕ Java · 🟣 Kotlin · ⚙️ C++
 
 ### AI / Machine Learning
-
-PyTorch • OpenCV • YOLOv8 • TensorFlow • NumPy • Pandas • Scikit-Learn
+🔥 PyTorch · 👁️ OpenCV · 🎯 YOLOv8 · 🧠 TensorFlow · 📊 NumPy · 🐼 Pandas · Scikit-Learn
 
 ### Full-Stack Development
+⚛️ React · ▲ Next.js · 🟢 Node.js · Express.js · 🍃 MongoDB · 🔥 Firebase · Supabase
 
-React • Next.js • Node.js • Express.js • MongoDB • Firebase • Supabase
-
-### Tools
-
-Git • Docker • Cloudinary • Postman
+### Tools & Platforms
+🔧 Git · 🐳 Docker · ☁️ Cloudinary · 📮 Postman
 
 ---
 
