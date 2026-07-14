@@ -81,9 +81,9 @@ Spreadsheet application implementing core Excel functionalities using Python.
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: *(Add your LinkedIn link)*
-- 🌐 Portfolio: *(Add your portfolio link)*
-- 📧 Email: *(Add your email)*
+- 💼 LinkedIn: https://www.linkedin.com/in/maryam-zaheer-b532742a8/
+- 🌐 Portfolio: https://maryam-portfolio-vert.vercel.app
+- 📧 Email: maryamzaheer2006@gmail.com
 
 ---
 
