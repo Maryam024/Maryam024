@@ -64,7 +64,7 @@ Lightweight spreadsheet application implementing Excel functionalities using Pyt
 ## 📫 Connect With Me
 
 🌐 Portfolio  
-https://maryam-portfolio-vert.vercel.app
+https://www.maryam-dev.me
 
 💼 LinkedIn  
 https://www.linkedin.com/in/maryam-zaheer-b532742a8/
