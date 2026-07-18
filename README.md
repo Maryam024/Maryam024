@@ -67,7 +67,7 @@ Lightweight spreadsheet application implementing Excel functionalities using Pyt
 https://www.maryam-dev.me
 
 💼 LinkedIn  
-https://www.linkedin.com/in/maryam-zaheer024
+https://www.linkedin.com/in/maryam-zaheer4
 
 📧 Email  
 maryamzaheer2006@gmail.com
