@@ -1,77 +1,132 @@
 # Hi 👋 I'm Maryam Zaheer
 
-### Final-year Computer Science Student @ UET Lahore
+## Final-Year Computer Science Student @ UET Lahore
 
-💻 Full-Stack Developer | 🤖 AI/ML & Computer Vision | 📱 Android Developer
+💻 Full-Stack Developer | 🤖 AI/ML Engineer | 👁️ Computer Vision & Multimodal AI Researcher
 
-I build web, mobile, and AI-powered applications focused on solving real-world problems. My interests include Artificial Intelligence, Deep Learning, Computer Vision, and scalable software systems.
+I build AI-powered applications and scalable software systems focused on solving real-world problems.
 
-Currently exploring Vision-Language Models, Agentic AI, and Retrieval-Augmented Generation (RAG).
+My current interests include:
+
+- Vision-Language Models (VLMs)
+- Retrieval-Augmented Generation (RAG)
+- Medical AI
+- Computer Vision
+- Agentic AI Systems
+- Full-Stack AI Applications
+
+Currently working on research involving evidence-grounded medical image understanding and multimodal learning.
 
 ---
 
-## 🚀 Currently Learning
+## 🔬 Research & AI Interests
 
-- 🧠 Advanced Deep Learning with PyTorch
-- 👁️ Computer Vision & Vision-Language Models
-- 🤖 Agentic AI & RAG Systems
-- 🌐 Scalable Full-Stack Architectures
+- Medical Vision-Language Models
+- Retrieval-Augmented AI Systems
+- Multimodal Learning
+- Deep Learning Optimization
+- AI Agents
+- Computer Vision Applications
 
 ---
+
+## 🔭 Currently Exploring
+
+- 🤖 Agentic AI Systems
+- 👁️ Vision-Language Model Research
+- 🧬 Multimodal AI Applications
+  
+---
+
 ## 🛠 Tech Stack
 
-### Languages
-🐍 Python · 🟨 JavaScript · 🔷 TypeScript · ☕ Java · 🟣 Kotlin · ⚙️ C++
+**Languages**  
+🐍 Python · 🟨 JavaScript · 🔷 TypeScript · ☕ Java · 🟣 Kotlin · ⚙️ C++ · 🗄️ SQL
 
-### AI / Machine Learning
-🔥 PyTorch · 👁️ OpenCV · 🎯 YOLOv8 · 🧠 TensorFlow · 📊 NumPy · 🐼 Pandas · Scikit-Learn
 
-### Full-Stack Development
-⚛️ React · ▲ Next.js · 🟢 Node.js · Express.js · 🍃 MongoDB · 🔥 Firebase · Supabase
+**AI / Machine Learning**  
+🔥 PyTorch · 🧠 Deep Learning · 🤗 Hugging Face · 👁️ Computer Vision · OpenCV · 🎯 YOLOv8 · TensorFlow · NumPy · Pandas · Scikit-Learn · RAG
 
-### Tools & Platforms
-🔧 Git · 🐳 Docker · ☁️ Cloudinary · 📮 Postman
 
----
+**Vision & Generative AI**  
+👁️ Vision-Language Models · 🔎 Retrieval-Augmented Generation · LangChain · Multimodal AI
 
-## 🌟 Featured Projects
 
-### 🚀 VisionTrack
-Real-time object detection, tracking, and counting system using YOLOv8, OpenCV, and CustomTkinter.
+**Full-Stack Development**  
+⚛️ React · ▲ Next.js · 🟢 Node.js · Express.js · 🐍 Django · Flask · 🍃 MongoDB · PostgreSQL · Firebase · Supabase
 
-### 💼 WorkPulse
-AI-powered employee productivity monitoring system with activity tracking, analytics dashboard, and automation.
 
-### 📱 GameHub
-Android gaming platform featuring seven interactive mini-games using Kotlin, Firebase, and REST APIs.
-
-### 📊 GraphDB
-AI-assisted graph database explorer with Neo4j visualization and natural language querying.
-
-### 📈 MiniExcel
-Lightweight spreadsheet application implementing Excel functionalities using Python and data structures.
+**Tools & Platforms**  
+🔧 Git · 🐳 Docker · Linux · Postman · Cloudinary
 
 ---
 
-## 📈 GitHub Stats
+# 🌟 Featured Projects
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maryam024&show_icons=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maryam024&layout=compact&theme=github_dark)
+## 🩺 MedInsight
+### Retrieval-Augmented Vision-Language Models for Evidence-Grounded Medical Image Understanding
+
+Research project investigating whether retrieval augmentation improves medical VLM grounding.
+
+**Tech:** PyTorch · CLIP · FAISS · BLIP-2 · RAG · Medical VQA
 
 ---
 
-## 📫 Connect With Me
+## 👁️ VisionTrack
+
+Real-time object detection, tracking, and counting system using YOLOv8 and OpenCV.
+
+**Tech:** Python · YOLOv8 · OpenCV · Computer Vision
+
+
+---
+
+## 💼 WorkPulse
+
+AI-powered employee productivity monitoring platform with activity tracking, analytics dashboard, and automation.
+
+**Tech:** Python · Flask · Supabase · AI Agents
+
+
+---
+
+## 🧠 GraphDB
+
+AI-assisted graph database explorer supporting natural language querying and Neo4j visualization.
+
+**Tech:** Neo4j · Graph Databases · AI Integration
+
+
+---
+
+## 📱 GameHub
+
+Android gaming platform containing multiple interactive mini-games.
+
+**Tech:** Kotlin · Firebase · REST APIs
+
+
+---
+
+# 📫 Connect With Me
+
 
 🌐 Portfolio  
 https://www.maryam-dev.me
 
+
 💼 LinkedIn  
 https://www.linkedin.com/in/maryam-zaheer4
+
 
 📧 Email  
 maryamzaheer2006@gmail.com
 
+
 ---
 
-> Building practical software with AI.
+![Profile Views](https://komarev.com/ghpvc/?username=Maryam024&color=blue)
+
+
+> Building practical software systems with AI and exploring the future of intelligent applications.
