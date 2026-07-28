@@ -60,7 +60,7 @@ I'm a final-year CS student building AI-powered applications and full-stack syst
 
 ### 🌟 Featured Projects
 
-#### 🩺 [MedInsight](#) — Retrieval-Augmented Medical Image Understanding
+#### 🩺 [MedInsight](🔗https://github.com/Maryam024/MedInsight) — Retrieval-Augmented Medical Image Understanding
 Exploratory project applying retrieval augmentation (CLIP embeddings + FAISS) to medical VQA, investigating whether grounding a vision-language model in retrieved evidence improves answer reliability.
 `PyTorch` `CLIP` `FAISS` `BLIP-2` `Medical VQA`
 
@@ -83,8 +83,6 @@ MERN-stack project management tool with real-time updates (Socket.io), API docum
 #### 📱 [GameHub](#) — Android Mini-Games Platform
 Android app hosting 7 interactive mini-games, built with an MVVM architecture and Firebase backend.
 `Kotlin` `Firebase` `MVVM`
-
-> 🔗 Replace the `#` links above with each project's actual GitHub repo URL.
 
 ---
 
