@@ -64,7 +64,7 @@ I'm a final-year CS student building AI-powered applications and full-stack syst
 Exploratory project applying retrieval augmentation (CLIP embeddings + FAISS) to medical VQA, investigating whether grounding a vision-language model in retrieved evidence improves answer reliability.
 `PyTorch` `CLIP` `FAISS` `BLIP-2` `Medical VQA`
 
-#### 👁️ [VisionTrack]((https://github.com/Maryam024/VisionTrack) — Real-Time Object Detection & Tracking
+#### 👁️ [VisionTrack](https://github.com/Maryam024/VisionTrack) — Real-Time Object Detection & Tracking
 Real-time detection, tracking, and counting pipeline built on YOLOv8 and OpenCV, with configurable zones and counting logic.
 `Python` `YOLOv8` `OpenCV`
 
