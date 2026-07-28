@@ -31,6 +31,8 @@ I'm a final-year CS student building AI-powered applications and full-stack syst
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Assembly](https://img.shields.io/badge/-Assembly-6E4C13?style=flat-square&logo=assemblyscript&logoColor=white)
 
 **AI / Machine Learning**
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -92,12 +94,38 @@ Android app hosting 7 interactive mini-games, built with an MVVM architecture an
 ---
 
 ### 🏅 Microsoft Learn Badges
-<p align="center"> <a href="https://learn.microsoft.com/api/achievements/share/en-us/MaryamZaheer-9921/H2PMZVJ8?sharingId=216FEB8549220962"><img src="https://learn.microsoft.com/training/achievements/get-started-ai-fundamentals-social.png" height="140" alt="Introduction to AI concepts"/></a> <a href="https://learn.microsoft.com/api/achievements/share/en-us/MaryamZaheer-9921/FEDPHG4X?sharingId=216FEB8549220962"><img src="https://learn.microsoft.com/training/achievements/fundamentals-generative-ai-social.png" height="140" alt="Introduction to generative AI and agents"/></a> <a href="https://learn.microsoft.com/api/achievements/share/en-us/MaryamZaheer-9921/K9W353FB?sharingId=216FEB8549220962"><img src="https://learn.microsoft.com/learn/achievements/generic-badge-social.png" height="140" alt="Plan and prepare to develop AI solutions on Azure"/></a> <a href="https://learn.microsoft.com/api/achievements/share/en-us/MaryamZaheer-9921/7DLTMJNZ?sharingId=216FEB8549220962"><img src="https://learn.microsoft.com/learn/achievements/generic-badge-social.png" height="140" alt="Introduction to AI speech concepts"/></a> </p> <p align="center"> <sub><a href="https://learn.microsoft.com/api/achievements/share/en-us/MaryamZaheer-9921/H2PMZVJ8?sharingId=216FEB8549220962">Intro to AI Concepts</a> · <a href="https://learn.microsoft.com/api/achievements/share/en-us/MaryamZaheer-9921/FEDPHG4X?sharingId=216FEB8549220962">Intro to Generative AI & Agents</a> · <a href="https://learn.microsoft.com/api/achievements/share/en-us/MaryamZaheer-9921/K9W353FB?sharingId=216FEB8549220962">Plan & Prepare AI Solutions on Azure</a> · <a href="https://learn.microsoft.com/api/achievements/share/en-us/MaryamZaheer-9921/7DLTMJNZ?sharingId=216FEB8549220962">Intro to AI Speech Concepts</a></sub> </p>
+
+<p align="center">
+<a href="https://learn.microsoft.com/api/achievements/share/en-us/MaryamZaheer-9921/H2PMZVJ8?sharingId=216FEB8549220962"><img src="https://learn.microsoft.com/training/achievements/get-started-ai-fundamentals-social.png" height="140" alt="Introduction to AI concepts"/></a>
+<a href="https://learn.microsoft.com/api/achievements/share/en-us/MaryamZaheer-9921/FEDPHG4X?sharingId=216FEB8549220962"><img src="https://learn.microsoft.com/training/achievements/fundamentals-generative-ai-social.png" height="140" alt="Introduction to generative AI and agents"/></a>
+<a href="https://learn.microsoft.com/api/achievements/share/en-us/MaryamZaheer-9921/K9W353FB?sharingId=216FEB8549220962"><img src="https://learn.microsoft.com/learn/achievements/generic-badge-social.png" height="140" alt="Plan and prepare to develop AI solutions on Azure"/></a>
+<a href="https://learn.microsoft.com/api/achievements/share/en-us/MaryamZaheer-9921/7DLTMJNZ?sharingId=216FEB8549220962"><img src="https://learn.microsoft.com/learn/achievements/generic-badge-social.png" height="140" alt="Introduction to AI speech concepts"/></a>
+</p>
+
+<p align="center">
+<sub><a href="https://learn.microsoft.com/api/achievements/share/en-us/MaryamZaheer-9921/H2PMZVJ8?sharingId=216FEB8549220962">Intro to AI Concepts</a> · <a href="https://learn.microsoft.com/api/achievements/share/en-us/MaryamZaheer-9921/FEDPHG4X?sharingId=216FEB8549220962">Intro to Generative AI & Agents</a> · <a href="https://learn.microsoft.com/api/achievements/share/en-us/MaryamZaheer-9921/K9W353FB?sharingId=216FEB8549220962">Plan & Prepare AI Solutions on Azure</a> · <a href="https://learn.microsoft.com/api/achievements/share/en-us/MaryamZaheer-9921/7DLTMJNZ?sharingId=216FEB8549220962">Intro to AI Speech Concepts</a></sub>
+</p>
+
+---
 
 ### 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Maryam024&show_icons=true&theme=default&count_private=true" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maryam024&theme=default" height="165"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maryam024&layout=compact&theme=default" height="165"/> </p>
-📫 Let's Connect
 
-🌐 Portfolio  |  💼 LinkedIn  |  📧 maryamzaheer2006@gmail.com
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Maryam024&show_icons=true&theme=default&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Maryam024&theme=default" height="165"/>
+</p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Maryam024&color=blue" alt="Profile Views"/> </p> <p align="center"><i>Building practical software systems with AI, one project at a time.</i></p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maryam024&layout=compact&theme=default" height="165"/>
+</p>
+
+---
+
+### 📫 Let's Connect
+🌐 [Portfolio](https://www.maryam-dev.me) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/maryam-zaheer4) &nbsp;|&nbsp; 📧 maryamzaheer2006@gmail.com
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Maryam024&color=blue" alt="Profile Views"/>
+</p>
+
+<p align="center"><i>Building practical software systems with AI, one project at a time.</i></p>
