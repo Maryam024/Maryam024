@@ -92,31 +92,12 @@ Android app hosting 7 interactive mini-games, built with an MVVM architecture an
 ---
 
 ### 🏅 Microsoft Learn Badges
-- [Introduction to AI concepts](https://learn.microsoft.com/api/achievements/share/en-us/MaryamZaheer-9921/H2PMZVJ8?sharingId=216FEB8549220962)
-- [Introduction to generative AI and agents](https://learn.microsoft.com/api/achievements/share/en-us/MaryamZaheer-9921/FEDPHG4X?sharingId=216FEB8549220962)
-- [Plan and prepare to develop AI solutions on Azure](https://learn.microsoft.com/api/achievements/share/en-us/MaryamZaheer-9921/K9W353FB?sharingId=216FEB8549220962)
-- [Introduction to AI speech concepts](https://learn.microsoft.com/api/achievements/share/en-us/MaryamZaheer-9921/7DLTMJNZ?sharingId=216FEB8549220962)
-
----
+<p align="center"> <a href="https://learn.microsoft.com/api/achievements/share/en-us/MaryamZaheer-9921/H2PMZVJ8?sharingId=216FEB8549220962"><img src="https://learn.microsoft.com/training/achievements/get-started-ai-fundamentals-social.png" height="140" alt="Introduction to AI concepts"/></a> <a href="https://learn.microsoft.com/api/achievements/share/en-us/MaryamZaheer-9921/FEDPHG4X?sharingId=216FEB8549220962"><img src="https://learn.microsoft.com/training/achievements/fundamentals-generative-ai-social.png" height="140" alt="Introduction to generative AI and agents"/></a> <a href="https://learn.microsoft.com/api/achievements/share/en-us/MaryamZaheer-9921/K9W353FB?sharingId=216FEB8549220962"><img src="https://learn.microsoft.com/learn/achievements/generic-badge-social.png" height="140" alt="Plan and prepare to develop AI solutions on Azure"/></a> <a href="https://learn.microsoft.com/api/achievements/share/en-us/MaryamZaheer-9921/7DLTMJNZ?sharingId=216FEB8549220962"><img src="https://learn.microsoft.com/learn/achievements/generic-badge-social.png" height="140" alt="Introduction to AI speech concepts"/></a> </p> <p align="center"> <sub><a href="https://learn.microsoft.com/api/achievements/share/en-us/MaryamZaheer-9921/H2PMZVJ8?sharingId=216FEB8549220962">Intro to AI Concepts</a> · <a href="https://learn.microsoft.com/api/achievements/share/en-us/MaryamZaheer-9921/FEDPHG4X?sharingId=216FEB8549220962">Intro to Generative AI & Agents</a> · <a href="https://learn.microsoft.com/api/achievements/share/en-us/MaryamZaheer-9921/K9W353FB?sharingId=216FEB8549220962">Plan & Prepare AI Solutions on Azure</a> · <a href="https://learn.microsoft.com/api/achievements/share/en-us/MaryamZaheer-9921/7DLTMJNZ?sharingId=216FEB8549220962">Intro to AI Speech Concepts</a></sub> </p>
 
 ### 📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Maryam024&show_icons=true&theme=default&count_private=true" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maryam024&theme=default" height="165"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maryam024&layout=compact&theme=default" height="165"/> </p>
+📫 Let's Connect
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Maryam024&show_icons=true&theme=default&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Maryam024&theme=default" height="165"/>
-</p>
+🌐 Portfolio  |  💼 LinkedIn  |  📧 maryamzaheer2006@gmail.com
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maryam024&layout=compact&theme=default" height="165"/>
-</p>
-
----
-
-### 📫 Let's Connect
-🌐 [Portfolio](https://www.maryam-dev.me) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/maryam-zaheer4) &nbsp;|&nbsp; 📧 maryamzaheer2006@gmail.com
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Maryam024&color=blue" alt="Profile Views"/>
-</p>
-
-<p align="center"><i>Building practical software systems with AI, one project at a time.</i></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Maryam024&color=blue" alt="Profile Views"/> </p> <p align="center"><i>Building practical software systems with AI, one project at a time.</i></p>
