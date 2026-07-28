@@ -60,27 +60,27 @@ I'm a final-year CS student building AI-powered applications and full-stack syst
 
 ### 🌟 Featured Projects
 
-#### 🩺 [MedInsight](🔗https://github.com/Maryam024/MedInsight) — Retrieval-Augmented Medical Image Understanding
+#### 🩺 [MedInsight](https://github.com/Maryam024/MedInsight) — Retrieval-Augmented Medical Image Understanding
 Exploratory project applying retrieval augmentation (CLIP embeddings + FAISS) to medical VQA, investigating whether grounding a vision-language model in retrieved evidence improves answer reliability.
 `PyTorch` `CLIP` `FAISS` `BLIP-2` `Medical VQA`
 
-#### 👁️ [VisionTrack](#) — Real-Time Object Detection & Tracking
+#### 👁️ [VisionTrack]((https://github.com/Maryam024/VisionTrack) — Real-Time Object Detection & Tracking
 Real-time detection, tracking, and counting pipeline built on YOLOv8 and OpenCV, with configurable zones and counting logic.
 `Python` `YOLOv8` `OpenCV`
 
-#### 💼 [WorkPulse](#) — Employee Productivity Monitoring Platform
+#### 💼 [WorkPulse](https://github.com/Maryam024/WorkPulse) — Employee Productivity Monitoring Platform
 Productivity monitoring platform with activity tracking, OCR-based screenshot analysis, automated reporting via n8n, and a Supabase-backed analytics dashboard.
 `Python` `Flask` `Supabase` `EasyOCR` `n8n`
 
-#### 🧠 [GraphDB Explorer](#) — Natural-Language Graph Querying
+#### 🧠 [GraphDB Explorer](https://github.com/Maryam024/GraphDB) — Natural-Language Graph Querying
 Graph database explorer that lets users query and visualize Neo4j graphs using natural language input, translated into structured graph queries.
 `Neo4j` `Graph Databases` `NLP`
 
-#### 🔀 [DevFlow](#) — Full-Stack Project Management Platform
+#### 🔀 [DevFlow](https://github.com/Maryam024/DevFlow) — Full-Stack Project Management Platform
 MERN-stack project management tool with real-time updates (Socket.io), API documentation (Swagger), automated testing (Jest), and Docker-based deployment.
 `MongoDB` `Express` `React` `Node.js` `Docker` `Socket.io`
 
-#### 📱 [GameHub](#) — Android Mini-Games Platform
+#### 📱 [GameHub](https://github.com/Maryam024/GameHub) — Android Mini-Games Platform
 Android app hosting 7 interactive mini-games, built with an MVVM architecture and Firebase backend.
 `Kotlin` `Firebase` `MVVM`
 
