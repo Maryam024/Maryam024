@@ -108,6 +108,22 @@ Android app hosting 7 interactive mini-games, built with an MVVM architecture an
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Maryam024&theme=flat&no-frame=true&margin-w=10&row=2&column=4"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Maryam024&theme=github-light&hide_border=true"/>
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
