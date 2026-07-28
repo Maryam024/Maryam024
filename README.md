@@ -16,7 +16,7 @@
 I'm a final-year CS student building AI-powered applications and full-stack systems, with a growing focus on **computer vision, retrieval-augmented systems, and multimodal learning**. I like taking ML concepts from theory to working, deployable projects that solve real problems.
 
 - 🔭 Currently building: retrieval-augmented vision-language pipelines for medical image understanding
-- 🌱 Currently learning: PyTorch internals, deep learning optimization, agentic AI systems
+- 🌱 Currently learning: PyTorch internals, deep learning optimization, CUDA programming, agentic AI systems
 - 📄 Independent research: LSTM/NLP work, DOI-archived on Zenodo (link below)
 - 💬 Ask me about: computer vision, full-stack architecture, or my current RAG/VLM project
 
@@ -45,6 +45,7 @@ I'm a final-year CS student building AI-powered applications and full-stack syst
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
@@ -89,6 +90,14 @@ Android app hosting 7 interactive mini-games, built with an MVVM architecture an
 
 ### 📄 Research
 - **LSTM/NLP Research** — Independent research project, DOI-archived on Zenodo: [zenodo.org/records/21265208](https://zenodo.org/records/21265208)
+
+---
+
+### 🏅 Microsoft Learn Badges
+- [Introduction to AI concepts](https://learn.microsoft.com/api/achievements/share/en-us/MaryamZaheer-9921/H2PMZVJ8?sharingId=216FEB8549220962)
+- [Introduction to generative AI and agents](https://learn.microsoft.com/api/achievements/share/en-us/MaryamZaheer-9921/FEDPHG4X?sharingId=216FEB8549220962)
+- [Plan and prepare to develop AI solutions on Azure](https://learn.microsoft.com/api/achievements/share/en-us/MaryamZaheer-9921/K9W353FB?sharingId=216FEB8549220962)
+- [Introduction to AI speech concepts](https://learn.microsoft.com/api/achievements/share/en-us/MaryamZaheer-9921/7DLTMJNZ?sharingId=216FEB8549220962)
 
 ---
 
