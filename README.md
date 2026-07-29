@@ -95,8 +95,8 @@ Android app hosting 7 interactive mini-games, built with an MVVM architecture an
 ---
 
 ### 📄 Research
-- **MedInsight: Evaluating Retrieval-Augmented Vision-Language Models for Evidence-Grounded Medical Image Understanding** — Preprint evaluating whether retrieval augmentation improves VLM performance on medical VQA, comparing a BLIP-2 baseline against a CLIP + FAISS retrieval-augmented pipeline on VQA-RAD and ROCOv2. DOI-archived on Zenodo: [zenodo.org/records/21670123](https://zenodo.org/records/21670123)
-- **LSTM/NLP Research** — Independent research project, DOI-archived on Zenodo: [zenodo.org/records/21265208](https://zenodo.org/records/21265208)
+- **MedInsight** — Evaluates whether retrieval augmentation (CLIP + FAISS) improves a BLIP-2 vision-language model on medical VQA, benchmarked on VQA-RAD and ROCOv2. DOI-archived on Zenodo: [zenodo.org/records/21670123](https://zenodo.org/records/21670123)
+- **AI-Based Depression Detection** — Detects depressive symptoms in social media text using a fine-tuned DistilBERT + BiLSTM model with attention, reaching 91.09% accuracy with interpretable predictions. DOI-archived on Zenodo: [zenodo.org/records/21265208](https://zenodo.org/records/21265208)
 
 ---
 
