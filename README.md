@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Maryam Zaheer 👋</h1>
 <h3 align="center">Final-Year Computer Science Student @ UET Lahore</h3>
 <p align="center">
-💻 Full-Stack Developer &nbsp;|&nbsp; 🤖 AI/ML Engineer &nbsp;|&nbsp; 👁️ Computer Vision Enthusiast
+💻 Full-Stack Developer &nbsp;|&nbsp; 🤖 AI/ML Engineer &nbsp;|&nbsp; 👁️ Computer Vision
 </p>
 
 <p align="center">
@@ -15,10 +15,9 @@
 ### 🧭 About Me
 I'm a final-year CS student building AI-powered applications and full-stack systems, with a growing focus on **computer vision, retrieval-augmented systems, and multimodal learning**. I like taking ML concepts from theory to working, deployable projects that solve real problems.
 
-- 🔭 Currently building: retrieval-augmented vision-language pipelines for medical image understanding
-- 🌱 Currently learning: PyTorch internals, deep learning optimization, CUDA programming, agentic AI systems
-- 📄 Independent research: LSTM/NLP work, DOI-archived on Zenodo (link below)
-- 💬 Ask me about: computer vision, full-stack architecture, or my current RAG/VLM project
+- 🔭 Recently completed: MedInsight, a retrieval-augmented vision-language pipeline for medical image understanding
+- 📄 Independent research: two DOI-archived research preprints on Zenodo (links below)
+- 💬 Ask me about: computer vision, full-stack architecture, or retrieval-augmented systems
 
 ---
 
@@ -50,8 +49,15 @@ I'm a final-year CS student building AI-powered applications and full-stack syst
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Cloud & Services**
+![Appwrite](https://img.shields.io/badge/-Appwrite-F02E65?style=flat-square&logo=appwrite&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+![MongoDB Atlas](https://img.shields.io/badge/-MongoDB%20Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Resend](https://img.shields.io/badge/-Resend-000000?style=flat-square&logo=resend&logoColor=white)
+![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
 **Tools**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -63,7 +69,7 @@ I'm a final-year CS student building AI-powered applications and full-stack syst
 ### 🌟 Featured Projects
 
 #### 🩺 [MedInsight](https://github.com/Maryam024/MedInsight) — Retrieval-Augmented Medical Image Understanding
-Exploratory project applying retrieval augmentation (CLIP embeddings + FAISS) to medical VQA, investigating whether grounding a vision-language model in retrieved evidence improves answer reliability.
+Exploratory project applying retrieval augmentation (CLIP embeddings + FAISS) to medical VQA, investigating whether grounding a vision-language model in retrieved evidence improves answer reliability. Findings published as a preprint (linked in Research below).
 `PyTorch` `CLIP` `FAISS` `BLIP-2` `Medical VQA`
 
 #### 👁️ [VisionTrack](https://github.com/Maryam024/VisionTrack) — Real-Time Object Detection & Tracking
@@ -89,6 +95,7 @@ Android app hosting 7 interactive mini-games, built with an MVVM architecture an
 ---
 
 ### 📄 Research
+- **MedInsight: Evaluating Retrieval-Augmented Vision-Language Models for Evidence-Grounded Medical Image Understanding** — Preprint evaluating whether retrieval augmentation improves VLM performance on medical VQA, comparing a BLIP-2 baseline against a CLIP + FAISS retrieval-augmented pipeline on VQA-RAD and ROCOv2. DOI-archived on Zenodo: [zenodo.org/records/21670123](https://zenodo.org/records/21670123)
 - **LSTM/NLP Research** — Independent research project, DOI-archived on Zenodo: [zenodo.org/records/21265208](https://zenodo.org/records/21265208)
 
 ---
