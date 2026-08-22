@@ -74,6 +74,9 @@ Exploratory project applying retrieval augmentation (CLIP embeddings + FAISS) to
 
 #### RobustRag
 
+#### graphrag
+
+
 #### 👁️ [VisionTrack](https://github.com/Maryam024/VisionTrack) — Real-Time Object Detection & Tracking
 Real-time detection, tracking, and counting pipeline built on YOLOv8 and OpenCV, with configurable zones and counting logic.
 `Python` `YOLOv8` `OpenCV`
