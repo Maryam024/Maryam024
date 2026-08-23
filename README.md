@@ -72,7 +72,7 @@ I'm a final-year CS student building AI-powered applications and full-stack syst
 Exploratory project applying retrieval augmentation (CLIP embeddings + FAISS) to medical VQA, investigating whether grounding a vision-language model in retrieved evidence improves answer reliability. Findings published as a preprint (linked in Research below).
 `PyTorch` `CLIP` `FAISS` `BLIP-2` `Medical VQA`
 
-#### RobustRAG
+#### [RobustRAG](https://github.com/Maryamo24/RobustRag)
 
 #### 🕸️ [GraphRAG](https://github.com/Maryam024/GraphRag) — Adaptive Hierarchical Graph-RAG
 Graph-RAG system extending Microsoft's GraphRAG with an adaptive retrieval router (selects local/global/hybrid/no-retrieval strategy per query), incremental graph construction that merges new documents without full re-indexing, and a self-verification layer that checks generated claims against retrieved evidence. Evaluated routing and verification against baselines on a toy corpus, documented in the repo README.
