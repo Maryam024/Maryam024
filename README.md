@@ -74,7 +74,7 @@ Exploratory project applying retrieval augmentation (CLIP embeddings + FAISS) to
 
 #### RobustRAG
 
-#### 🕸️ [GraphRAG]() — Adaptive Hierarchical Graph-RAG
+#### 🕸️ [GraphRAG](https://github.com/Maryam024/GraphRag) — Adaptive Hierarchical Graph-RAG
 Graph-RAG system extending Microsoft's GraphRAG with an adaptive retrieval router (selects local/global/hybrid/no-retrieval strategy per query), incremental graph construction that merges new documents without full re-indexing, and a self-verification layer that checks generated claims against retrieved evidence. Evaluated routing and verification against baselines on a toy corpus, documented in the repo README.
 `Python` `Neo4j` `Qdrant` `Streamlit` `LLM Orchestration`
 
