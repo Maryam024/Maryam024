@@ -74,6 +74,7 @@ Exploratory project applying retrieval augmentation (CLIP embeddings + FAISS) to
 
 #### 🛡️ [RobustRAG](https://github.com/Maryamo24/RobustRag) — RAG Robustness & Corpus Poisoning
 Empirical study of RAG robustness against **corpus poisoning and query embedding noise**, using BGE + FAISS on SQuAD 1.1. Evaluated near-duplicate, contradictory, and irrelevant poisoning strategies and a lightweight suppression defense, finding that query noise was the dominant source of degradation and that the tested defense could worsen retrieval performance.
+`Python` `PyTorch` `BGE` `FAISS` `RAG` `Robustness`
 
 #### 🕸️ [GraphRAG](https://github.com/Maryam024/GraphRag) — Adaptive Hierarchical Graph-RAG
 Graph-RAG system extending Microsoft's GraphRAG with an adaptive retrieval router (selects local/global/hybrid/no-retrieval strategy per query), incremental graph construction that merges new documents without full re-indexing, and a self-verification layer that checks generated claims against retrieved evidence. Evaluated routing and verification against baselines on a toy corpus, documented in the repo README.
