@@ -16,7 +16,7 @@
 I'm a final-year CS student building AI-powered applications and full-stack systems, with a growing focus on **computer vision, retrieval-augmented systems, and multimodal learning**. I like taking ML concepts from theory to working, deployable projects that solve real problems.
 
 - 🔭 Recently completed: MedInsight, a retrieval-augmented vision-language pipeline for medical image understanding
-- 📄 Independent research: two DOI-archived research preprints on Zenodo (links below)
+- 📄 Independent research: three DOI-archived research preprints on Zenodo (links below)
 - 💬 Ask me about: computer vision, full-stack architecture, or retrieval-augmented systems
 
 ---
@@ -72,8 +72,8 @@ I'm a final-year CS student building AI-powered applications and full-stack syst
 Exploratory project applying retrieval augmentation (CLIP embeddings + FAISS) to medical VQA, investigating whether grounding a vision-language model in retrieved evidence improves answer reliability. Findings published as a preprint (linked in Research below).
 `PyTorch` `CLIP` `FAISS` `BLIP-2` `Medical VQA`
 
-#### 🛡️ [RobustRAG](https://github.com/Maryamo24/RobustRag) — RAG Robustness & Corpus Poisoning
-Empirical study of RAG robustness against **corpus poisoning and query embedding noise**, using BGE + FAISS on SQuAD 1.1. Evaluated near-duplicate, contradictory, and irrelevant poisoning strategies and a lightweight suppression defense, finding that query noise was the dominant source of degradation and that the tested defense could worsen retrieval performance.
+#### 🛡️ [RobustRAG](https://github.com/Maryam024/RobustRag) — RAG Robustness & Corpus Poisoning
+Empirical study of RAG robustness against **corpus poisoning and query embedding noise**, using BGE + FAISS on SQuAD 1.1. Evaluated near-duplicate, contradictory, and irrelevant poisoning strategies and a lightweight suppression defense, finding that query noise was the dominant source of degradation and that the tested defense could worsen retrieval performance. Findings published as a preprint (linked in Research below).
 `Python` `PyTorch` `BGE` `FAISS` `RAG` `Robustness`
 
 #### 🕸️ [GraphRAG](https://github.com/Maryam024/GraphRag) — Adaptive Hierarchical Graph-RAG
@@ -103,8 +103,21 @@ Android app hosting 7 interactive mini-games, built with an MVVM architecture an
 ---
 
 ### 📄 Research
-- **MedInsight** — Evaluates whether retrieval augmentation (CLIP + FAISS) improves a BLIP-2 vision-language model on medical VQA, benchmarked on VQA-RAD and ROCOv2. DOI-archived on Zenodo: [zenodo.org/records/21670123](https://zenodo.org/records/21670123)
-- **AI-Based Depression Detection** — Detects depressive symptoms in social media text using a fine-tuned DistilBERT + BiLSTM model with attention, reaching 91.09% accuracy with interpretable predictions. DOI-archived on Zenodo: [zenodo.org/records/21265208](https://zenodo.org/records/21265208)
+
+<p align="left">
+<a href="https://zenodo.org/records/22153313"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.22153313.svg" alt="DOI"></a>
+&nbsp;<b>RobustRAG</b> — An empirical study of corpus poisoning and query embedding noise in retrieval-augmented question answering (BGE + FAISS, SQuAD 1.1). Shows query noise dominates over corpus poisoning at the tested settings, and identifies a structural failure mode in a common near-duplicate suppression defense.
+</p>
+
+<p align="left">
+<a href="https://zenodo.org/records/21670123"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.21670123.svg" alt="DOI"></a>
+&nbsp;<b>MedInsight</b> — Evaluates whether retrieval augmentation (CLIP + FAISS) improves a BLIP-2 vision-language model on medical VQA, benchmarked on VQA-RAD and ROCOv2.
+</p>
+
+<p align="left">
+<a href="https://zenodo.org/records/21265208"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.21265208.svg" alt="DOI"></a>
+&nbsp;<b>AI-Based Depression Detection</b> — Detects depressive symptoms in social media text using a fine-tuned DistilBERT + BiLSTM model with attention, reaching 91.09% accuracy with interpretable predictions.
+</p>
 
 ---
 
