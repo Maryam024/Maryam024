@@ -68,6 +68,8 @@ I'm a final-year CS student building AI-powered applications and full-stack syst
 
 ### 🌟 Featured Projects
 
+### Melanoma SSL
+
 #### 🩺 [MedInsight](https://github.com/Maryam024/MedInsight) — Retrieval-Augmented Medical Image Understanding
 Exploratory project applying retrieval augmentation (CLIP embeddings + FAISS) to medical VQA, investigating whether grounding a vision-language model in retrieved evidence improves answer reliability. Findings published as a preprint (linked in Research below).
 `PyTorch` `CLIP` `FAISS` `BLIP-2` `Medical VQA`
