@@ -15,8 +15,8 @@
 ### 🧭 About Me
 I'm a final-year CS student building AI-powered applications and full-stack systems, with a growing focus on **computer vision, retrieval-augmented systems, and multimodal learning**. I like taking ML concepts from theory to working, deployable projects that solve real problems.
 
-- 📄 Independent research: three DOI-archived research preprints on Zenodo (links below)
-- 💬 Ask me about: computer vision, full-stack architecture, or retrieval-augmented systems
+- 🔬 Independent research: Three DOI-archived preprints covering medical AI, RAG, and AI robustness
+- 💬 Ask me about: computer vision, medical AI, RAG systems, or full-stack development
 
 ---
 
@@ -87,21 +87,13 @@ Graph-RAG system extending Microsoft's GraphRAG with an adaptive retrieval route
 Real-time detection, tracking, and counting pipeline built on YOLOv8 and OpenCV, with configurable zones and counting logic.
 `Python` `YOLOv8` `OpenCV`
 
-#### 💼 [WorkPulse](https://github.com/Maryam024/WorkPulse) — Employee Productivity Monitoring Platform
-Productivity monitoring platform with activity tracking, OCR-based screenshot analysis, automated reporting via n8n, and a Supabase-backed analytics dashboard.
-`Python` `Flask` `Supabase` `EasyOCR` `n8n`
-
-#### 🧠 [GraphDB Explorer](https://github.com/Maryam024/GraphDB) — Natural-Language Graph Querying
-Graph database explorer that lets users query and visualize Neo4j graphs using natural language input, translated into structured graph queries.
-`Neo4j` `Graph Databases` `NLP`
-
 #### 🔀 [DevFlow](https://github.com/Maryam024/DevFlow) — Full-Stack Project Management Platform
 MERN-stack project management tool with real-time updates (Socket.io), API documentation (Swagger), automated testing (Jest), and Docker-based deployment.
 `MongoDB` `Express` `React` `Node.js` `Docker` `Socket.io`
 
-#### 📱 [GameHub](https://github.com/Maryam024/GameHub) — Android Mini-Games Platform
-Android app hosting 7 interactive mini-games, built with an MVVM architecture and Firebase backend.
-`Kotlin` `Firebase` `MVVM`
+#### 💼 [WorkPulse](https://github.com/Maryam024/WorkPulse) — Employee Productivity Monitoring Platform
+Productivity monitoring platform with activity tracking, OCR-based screenshot analysis, automated reporting via n8n, and a Supabase-backed analytics dashboard.
+`Python` `Flask` `Supabase` `EasyOCR` `n8n`
 
 ---
 
