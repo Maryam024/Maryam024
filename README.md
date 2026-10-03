@@ -1,37 +1,39 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:12343B,100:1F6F5C&height=200&section=header&text=Maryam%20Zaheer&fontSize=52&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Computer%20Vision%20%C2%B7%20RAG%20Systems&descAlignY=60&descSize=18" alt="Maryam Zaheer banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1F4E5F&height=200&section=header&text=Maryam%20Zaheer&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Computer%20Vision%20%C2%B7%20RAG%20Systems&descColor=d9efe9&descAlignY=60&descSize=18" alt="Maryam Zaheer banner"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/Maryam024">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=4CC38A&center=true&vCenter=true&width=640&lines=Final-year+CS+student+%40+UET+Lahore;Building+retrieval-augmented+%26+multimodal+systems;Medical+AI+%C2%B7+Computer+Vision+%C2%B7+Full-Stack;3+DOI-archived+preprints+on+Zenodo" alt="Typing animation"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=14B8A6&center=true&vCenter=true&width=640&lines=Final-year+CS+student+%40+UET+Lahore;Building+retrieval-augmented+%26+multimodal+systems;Medical+AI+%C2%B7+Computer+Vision+%C2%B7+Full-Stack;3+DOI-archived+preprints+on+Zenodo" alt="Typing animation"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.maryam-dev.me"><img src="https://img.shields.io/badge/Portfolio-1F6F5C?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/maryam-zaheer4"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:maryamzaheer2006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.maryam-dev.me"><img src="https://img.shields.io/badge/Portfolio-2F6F6A?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/maryam-zaheer4"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:maryamzaheer2006@gmail.com"><img src="https://img.shields.io/badge/Email-3B5BA5?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
 ## 👋 About Me
 
-I'm a final-year Computer Science student at **UET Lahore** who likes taking ML ideas from paper to working, deployable systems. My work sits at the intersection of **computer vision, retrieval-augmented generation, and multimodal learning**, with a strong full-stack background to ship what I build.
+I'm a final-year Computer Science student who likes taking ML ideas from paper to working, deployable systems. My work sits at the intersection of **computer vision, retrieval-augmented generation, and multimodal learning**, backed by a full-stack background so I can ship what I build.
 
-| | |
-|---|---|
-| 🔬 **Research** | Three DOI-archived preprints across medical AI, RAG, and AI robustness |
-| 💼 **Experience** | ML Engineer Intern @ **Medcare MSO** · previously ML Intern @ **NCAI** |
-| 🧬 **Current research** | Label-efficient (semi-supervised) melanoma segmentation in histopathology |
-| 💬 **Ask me about** | Computer vision · Medical AI · RAG systems · Full-stack development |
-| 🎯 **Interested in** | AI/ML research and applied AI |
+<table>
+<tr><td width="190">🎓 <b>Education</b></td><td>BS Computer Science, <b>UET Lahore</b> (2023 – 2027)</td></tr>
+<tr><td>💼 <b>Experience</b></td><td>ML Engineer Intern @ <b>Medcare MSO</b> · previously ML Intern @ <b>NCAI</b></td></tr>
+<tr><td>🧬 <b>Current research</b></td><td>Label-efficient (semi-supervised) melanoma segmentation in histopathology</td></tr>
+<tr><td>🎯 <b>Interested in</b></td><td>AI/ML research and applied AI</td></tr>
+<tr><td>💬 <b>Ask me about</b></td><td>Computer vision · Medical AI · RAG systems · Full-stack development</td></tr>
+</table>
 
 ---
 
 ## 🔬 Research
+
+Three DOI-archived preprints on Zenodo, covering RAG robustness, medical VQA, and mental-health NLP.
 
 <table>
 <tr>
@@ -58,7 +60,7 @@ I'm a final-year Computer Science student at **UET Lahore** who likes taking ML 
 </td>
 <td>
   <b>AI-Based Depression Detection</b><br/>
-  Fine-tuned DistilBERT + BiLSTM with attention for detecting depressive symptoms in social media text — <b>91.09% accuracy</b> with interpretable predictions.
+  Fine-tuned DistilBERT + BiLSTM with attention for detecting depressive symptoms in social media text: <b>91.09% accuracy</b> with interpretable predictions.
 </td>
 </tr>
 </table>
@@ -78,7 +80,7 @@ I'm a final-year Computer Science student at **UET Lahore** who likes taking ML 
 <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Assembly-6E4C13?style=flat-square&logo=assemblyscript&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Assembly-8A6A3D?style=flat-square&logo=assemblyscript&logoColor=white"/>
 </td>
 </tr>
 <tr>
@@ -88,18 +90,18 @@ I'm a final-year Computer Science student at **UET Lahore** who likes taking ML 
 <img src="https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
 <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
 <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/-NumPy-4D77CF?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Pandas-5B4FB5?style=flat-square&logo=pandas&logoColor=white"/>
 </td>
 </tr>
 <tr>
 <td><b>Full-Stack</b></td>
 <td>
 <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Next.js-4B5563?style=flat-square&logo=nextdotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Flask-4B5563?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Django-44B78B?style=flat-square&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 </td>
@@ -112,7 +114,7 @@ I'm a final-year Computer Science student at **UET Lahore** who likes taking ML 
 <img src="https://img.shields.io/badge/-MongoDB%20Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Appwrite-F02E65?style=flat-square&logo=appwrite&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Resend-000000?style=flat-square&logo=resend&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Resend-4B5563?style=flat-square&logo=resend&logoColor=white"/>
 <img src="https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
 </td>
 </tr>
@@ -132,81 +134,90 @@ I'm a final-year Computer Science student at **UET Lahore** who likes taking ML 
 
 ### 🧠 AI / ML & Research
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 #### 🧬 [Melanoma Segmentation](https://github.com/Maryam024/melanoma-ssl)
-Semi-supervised melanoma and nuclei segmentation in histopathology using a **Mean Teacher** framework, compared against a supervised U-Net baseline on the PUMA dataset under limited-label settings.
+*Current research · Label-efficient segmentation in histopathology*
+
+Semi-supervised melanoma and nuclei segmentation using a **Mean Teacher** framework, compared against a supervised U-Net baseline on the PUMA dataset under limited-label settings.
 
 `PyTorch` `U-Net` `Semi-Supervised Learning` `Medical AI`
 
-</td>
-<td width="50%" valign="top">
+<br/>
 
 #### 🩺 [MedInsight](https://github.com/Maryam024/MedInsight)
-Retrieval-augmented medical VQA: grounds a vision-language model in retrieved evidence to test whether answer reliability improves. *Published as a preprint.*
+*Retrieval-augmented medical image understanding · Preprint*
+
+Grounds a vision-language model in retrieved evidence (CLIP embeddings + FAISS) to test whether answer reliability improves on medical VQA.
 
 `PyTorch` `CLIP` `FAISS` `BLIP-2`
 
-</td>
-</tr>
-<tr>
-<td valign="top">
+<br/>
 
 #### 🛡️ [RobustRAG](https://github.com/Maryam024/RobustRag)
-Evaluates RAG robustness under near-duplicate, contradictory, and irrelevant poisoning, plus a lightweight suppression defense. *Published as a preprint.*
+*RAG robustness and corpus poisoning · Preprint*
+
+Evaluates retrieval robustness under near-duplicate, contradictory, and irrelevant poisoning, plus a lightweight suppression defense, using BGE + FAISS on SQuAD 1.1.
 
 `BGE` `FAISS` `RAG` `Robustness`
 
-</td>
-<td valign="top">
+<br/>
 
 #### 🕸️ [GraphRAG](https://github.com/Maryam024/GraphRag)
-Extends Microsoft's GraphRAG with an **adaptive retrieval router** (local / global / hybrid / none), **incremental graph updates** without full re-indexing, and a **self-verification** layer that checks claims against retrieved evidence.
+*Adaptive hierarchical Graph-RAG*
+
+Extends Microsoft's GraphRAG with an **adaptive retrieval router** (local / global / hybrid / none), **incremental graph updates** without full re-indexing, and a **self-verification** layer that checks generated claims against retrieved evidence.
 
 `Neo4j` `Qdrant` `Streamlit` `LLM Orchestration`
 
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
+<br/>
 
 #### 👁️ [VisionTrack](https://github.com/Maryam024/VisionTrack)
-Real-time detection, tracking, and counting pipeline with configurable zones and counting logic. &nbsp; `YOLOv8` `OpenCV` `Python`
+*Real-time object detection and tracking*
 
-</td>
-</tr>
-</table>
+Detection, tracking, and counting pipeline with configurable zones and counting logic.
+
+`YOLOv8` `OpenCV` `Python`
+
+<br/>
 
 ### 🌐 Full-Stack
 
-| Project | Description | Stack |
-|---|---|---|
-| [**DevFlow**](https://github.com/Maryam024/DevFlow) | Project management platform with real-time updates, Swagger API docs, Jest tests, and Docker deployment | `MongoDB` `Express` `React` `Node.js` `Socket.io` `Docker` |
-| [**WorkPulse**](https://github.com/Maryam024/WorkPulse) | Productivity monitoring with activity tracking, OCR-based screenshot analysis, n8n automated reports, and a Supabase analytics dashboard | `Flask` `Supabase` `EasyOCR` `n8n` |
+#### 🔀 [DevFlow](https://github.com/Maryam024/DevFlow)
+*Project management platform*
+
+MERN-stack tool with real-time updates, Swagger API docs, Jest tests, and Docker-based deployment.
+
+`MongoDB` `Express` `React` `Node.js` `Socket.io` `Docker`
+
+<br/>
+
+#### 💼 [WorkPulse](https://github.com/Maryam024/WorkPulse)
+*Employee productivity monitoring platform*
+
+Activity tracking, OCR-based screenshot analysis, automated reporting via n8n, and a Supabase-backed analytics dashboard.
+
+`Flask` `Supabase` `EasyOCR` `n8n`
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Maryam024&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=4CC38A&text_color=C9D1D9&icon_color=4CC38A&border_color=21262D"/>
-  <img height="165" src="https://streak-stats.demolab.com/?user=Maryam024&hide_border=true&background=0D1117&ring=4CC38A&fire=4CC38A&currStreakLabel=4CC38A&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Maryam024&show_icons=true&hide_border=true&count_private=true&theme=default"/>
+  <img height="165" src="https://streak-stats.demolab.com/?user=Maryam024&hide_border=true&theme=default"/>
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maryam024&layout=compact&hide_border=true&bg_color=0D1117&title_color=4CC38A&text_color=C9D1D9&icon_color=4CC38A&border_color=21262D"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maryam024&layout=compact&hide_border=true&theme=default"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maryam024&bg_color=0D1117&color=C9D1D9&line=4CC38A&point_color=FFFFFF&area=true&area_color=4CC38A&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maryam024&theme=github-light&hide_border=true" width="95%"/>
 </p>
 
 <details>
 <summary><b>🏆 GitHub Trophies</b></summary>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Maryam024&theme=darkhub&no-frame=true&margin-w=10&row=2&column=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Maryam024&theme=flat&no-frame=true&margin-w=10&row=2&column=4"/>
 </p>
 </details>
 
@@ -231,11 +242,11 @@ Real-time detection, tracking, and counting pipeline with configurable zones and
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.maryam-dev.me"><img src="https://img.shields.io/badge/🌐_Portfolio-maryam--dev.me-2EA67A?style=for-the-badge"/></a>
-  <a href="https://www.linkedin.com/in/maryam-zaheer4"><img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge"/></a>
-  <a href="mailto:maryamzaheer2006@gmail.com"><img src="https://img.shields.io/badge/📧_Email-Say_hi-D14836?style=for-the-badge"/></a>
+  <a href="https://www.maryam-dev.me"><img src="https://img.shields.io/badge/🌐_Portfolio-maryam--dev.me-2F6F6A?style=for-the-badge"/></a>
+  <a href="https://www.linkedin.com/in/maryam-zaheer4"><img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge"/></a>
+  <a href="mailto:maryamzaheer2006@gmail.com"><img src="https://img.shields.io/badge/📧_Email-Say_hi-3B5BA5?style=for-the-badge"/></a>
 </p>
 
 <p align="center"><i>Building practical software systems with AI, one project at a time.</i></p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:12343B,100:1F6F5C&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1F4E5F&height=100&section=footer" width="100%"/>
