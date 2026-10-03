@@ -242,7 +242,7 @@ Activity tracking, OCR-based screenshot analysis, automated reporting via n8n, a
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.maryam-dev.me"><img src="https://img.shields.io/badge/🌐_Portfolio-maryam--dev.me-2F6F6A?style=for-the-badge"/></a>
+  <a href="https://www.maryam-dev.me"><img src="https://img.shields.io/badge/🌐_Portfolio-maryam.engineer-2F6F6A?style=for-the-badge"/></a>
   <a href="https://www.linkedin.com/in/maryam-zaheer4"><img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge"/></a>
   <a href="mailto:maryamzaheer2006@gmail.com"><img src="https://img.shields.io/badge/📧_Email-Say_hi-3B5BA5?style=for-the-badge"/></a>
 </p>
