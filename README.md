@@ -68,6 +68,10 @@ I'm a final-year CS student building AI-powered applications and full-stack syst
 
 ### 🌟 Featured Projects
 
+#### 🧬 [Melanoma Segmentation](https://github.com/Maryam024/melanoma-ssl) — Label-Efficient Melanoma Segmentation in Histopathological Images
+Research project investigating semi-supervised learning for melanoma and nuclei segmentation in histopathological images, using a Mean Teacher framework to reduce reliance on labeled data. Developed and evaluated a supervised U-Net baseline alongside semi-supervised approaches on the PUMA dataset, with experiments focused on improving segmentation performance under limited-label settings.
+`Python` `PyTorch` `Computer Vision` `Medical AI` `Semi-Supervised Learning` `U-Net`
+
 #### 🩺 [MedInsight](https://github.com/Maryam024/MedInsight) — Retrieval-Augmented Medical Image Understanding
 Exploratory project applying retrieval augmentation (CLIP embeddings + FAISS) to medical VQA, investigating whether grounding a vision-language model in retrieved evidence improves answer reliability. Findings published as a preprint (linked in Research below).
 `PyTorch` `CLIP` `FAISS` `BLIP-2` `Medical VQA`
