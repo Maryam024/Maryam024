@@ -25,9 +25,44 @@ I'm a final-year Computer Science student at **UET Lahore** who likes taking ML 
 | | |
 |---|---|
 | 🔬 **Research** | Three DOI-archived preprints across medical AI, RAG, and AI robustness |
-| 🧬 **Currently exploring** | Label-efficient (semi-supervised) segmentation for histopathology |
+| 💼 **Experience** | ML Engineer Intern @ **Medcare MSO** · previously ML Intern @ **NCAI** |
+| 🧬 **Current research** | Label-efficient (semi-supervised) melanoma segmentation in histopathology |
 | 💬 **Ask me about** | Computer vision · Medical AI · RAG systems · Full-stack development |
-| 🤝 **Open to** | Internships and research collaborations in AI/ML |
+| 🎯 **Interested in** | AI/ML research and applied AI |
+
+---
+
+## 🔬 Research
+
+<table>
+<tr>
+<td width="150" align="center">
+  <a href="https://zenodo.org/records/22153313"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.22153313.svg" alt="DOI"/></a>
+</td>
+<td>
+  <b>RobustRAG</b><br/>
+  Empirical study of corpus poisoning and query embedding noise in retrieval-augmented QA (BGE + FAISS, SQuAD 1.1). Query noise dominates over poisoning at the tested settings, and a common near-duplicate suppression defense shows a structural failure mode.
+</td>
+</tr>
+<tr>
+<td align="center">
+  <a href="https://zenodo.org/records/21670123"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.21670123.svg" alt="DOI"/></a>
+</td>
+<td>
+  <b>MedInsight</b><br/>
+  Does retrieval augmentation (CLIP + FAISS) improve a BLIP-2 vision-language model on medical VQA? Benchmarked on VQA-RAD and ROCOv2.
+</td>
+</tr>
+<tr>
+<td align="center">
+  <a href="https://zenodo.org/records/21265208"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.21265208.svg" alt="DOI"/></a>
+</td>
+<td>
+  <b>AI-Based Depression Detection</b><br/>
+  Fine-tuned DistilBERT + BiLSTM with attention for detecting depressive symptoms in social media text — <b>91.09% accuracy</b> with interpretable predictions.
+</td>
+</tr>
+</table>
 
 ---
 
@@ -88,40 +123,6 @@ I'm a final-year Computer Science student at **UET Lahore** who likes taking ML 
 <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
-</td>
-</tr>
-</table>
-
----
-
-## 🔬 Research
-
-<table>
-<tr>
-<td width="150" align="center">
-  <a href="https://zenodo.org/records/22153313"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.22153313.svg" alt="DOI"/></a>
-</td>
-<td>
-  <b>RobustRAG</b><br/>
-  Empirical study of corpus poisoning and query embedding noise in retrieval-augmented QA (BGE + FAISS, SQuAD 1.1). Query noise dominates over poisoning at the tested settings, and a common near-duplicate suppression defense shows a structural failure mode.
-</td>
-</tr>
-<tr>
-<td align="center">
-  <a href="https://zenodo.org/records/21670123"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.21670123.svg" alt="DOI"/></a>
-</td>
-<td>
-  <b>MedInsight</b><br/>
-  Does retrieval augmentation (CLIP + FAISS) improve a BLIP-2 vision-language model on medical VQA? Benchmarked on VQA-RAD and ROCOv2.
-</td>
-</tr>
-<tr>
-<td align="center">
-  <a href="https://zenodo.org/records/21265208"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.21265208.svg" alt="DOI"/></a>
-</td>
-<td>
-  <b>AI-Based Depression Detection</b><br/>
-  Fine-tuned DistilBERT + BiLSTM with attention for detecting depressive symptoms in social media text — <b>91.09% accuracy</b> with interpretable predictions.
 </td>
 </tr>
 </table>
