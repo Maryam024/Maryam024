@@ -24,7 +24,6 @@ I'm a final-year Computer Science student who likes taking ML ideas from paper t
 <table>
 <tr><td width="190">🎓 <b>Education</b></td><td>BS Computer Science, <b>UET Lahore</b> (2023 – 2027)</td></tr>
 <tr><td>💼 <b>Experience</b></td><td>ML Engineer Intern @ <b>Medcare MSO</b> · previously ML Intern @ <b>NCAI</b></td></tr>
-<tr><td>🧬 <b>Current research</b></td><td>Label-efficient (semi-supervised) melanoma segmentation in histopathology</td></tr>
 <tr><td>🎯 <b>Interested in</b></td><td>AI/ML research and applied AI</td></tr>
 <tr><td>💬 <b>Ask me about</b></td><td>Computer vision · Medical AI · RAG systems · Full-stack development</td></tr>
 </table>
