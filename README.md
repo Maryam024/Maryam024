@@ -1,19 +1,18 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=200&section=header&text=Maryam%20Zaheer&fontSize=52&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Computer%20Vision%20%C2%B7%20RAG%20Systems&descAlignY=60&descSize=18" alt="Maryam Zaheer banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:12343B,100:1F6F5C&height=200&section=header&text=Maryam%20Zaheer&fontSize=52&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Computer%20Vision%20%C2%B7%20RAG%20Systems&descAlignY=60&descSize=18" alt="Maryam Zaheer banner"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/Maryam024">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=6C63FF&center=true&vCenter=true&width=640&lines=Final-year+CS+student+%40+UET+Lahore;Building+retrieval-augmented+%26+multimodal+systems;Medical+AI+%C2%B7+Computer+Vision+%C2%B7+Full-Stack;3+DOI-archived+preprints+on+Zenodo" alt="Typing animation"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=4CC38A&center=true&vCenter=true&width=640&lines=Final-year+CS+student+%40+UET+Lahore;Building+retrieval-augmented+%26+multimodal+systems;Medical+AI+%C2%B7+Computer+Vision+%C2%B7+Full-Stack;3+DOI-archived+preprints+on+Zenodo" alt="Typing animation"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.maryam-dev.me"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.maryam-dev.me"><img src="https://img.shields.io/badge/Portfolio-1F6F5C?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/maryam-zaheer4"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:maryamzaheer2006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Maryam024&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS"/>
 </p>
 
 ---
@@ -192,22 +191,22 @@ Real-time detection, tracking, and counting pipeline with configurable zones and
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Maryam024&show_icons=true&hide_border=true&count_private=true&theme=default"/>
-  <img height="165" src="https://streak-stats.demolab.com/?user=Maryam024&hide_border=true&theme=default"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Maryam024&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=4CC38A&text_color=C9D1D9&icon_color=4CC38A&border_color=21262D"/>
+  <img height="165" src="https://streak-stats.demolab.com/?user=Maryam024&hide_border=true&background=0D1117&ring=4CC38A&fire=4CC38A&currStreakLabel=4CC38A&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E"/>
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maryam024&layout=compact&hide_border=true&theme=default"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maryam024&layout=compact&hide_border=true&bg_color=0D1117&title_color=4CC38A&text_color=C9D1D9&icon_color=4CC38A&border_color=21262D"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maryam024&theme=github-light&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maryam024&bg_color=0D1117&color=C9D1D9&line=4CC38A&point_color=FFFFFF&area=true&area_color=4CC38A&hide_border=true" width="95%"/>
 </p>
 
 <details>
 <summary><b>🏆 GitHub Trophies</b></summary>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Maryam024&theme=flat&no-frame=true&margin-w=10&row=2&column=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Maryam024&theme=darkhub&no-frame=true&margin-w=10&row=2&column=4"/>
 </p>
 </details>
 
@@ -232,11 +231,11 @@ Real-time detection, tracking, and counting pipeline with configurable zones and
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.maryam-dev.me"><img src="https://img.shields.io/badge/🌐_Portfolio-maryam--dev.me-6C63FF?style=for-the-badge"/></a>
+  <a href="https://www.maryam-dev.me"><img src="https://img.shields.io/badge/🌐_Portfolio-maryam--dev.me-2EA67A?style=for-the-badge"/></a>
   <a href="https://www.linkedin.com/in/maryam-zaheer4"><img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge"/></a>
   <a href="mailto:maryamzaheer2006@gmail.com"><img src="https://img.shields.io/badge/📧_Email-Say_hi-D14836?style=for-the-badge"/></a>
 </p>
 
 <p align="center"><i>Building practical software systems with AI, one project at a time.</i></p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:12343B,100:1F6F5C&height=100&section=footer" width="100%"/>
