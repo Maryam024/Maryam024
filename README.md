@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Maryam Zaheer 👋</h1>
 <h3 align="center">Final-Year Computer Science Student @ UET Lahore</h3>
 <p align="center">
-💻 Full-Stack Developer &nbsp;|&nbsp; 🤖 AI/ML Engineer &nbsp;|&nbsp; 👁️ Computer Vision
+💻 Full-Stack Developer &nbsp;|&nbsp; 🤖 ML Engineer &nbsp;|&nbsp; 👁️ Computer Vision
 </p>
 
 <p align="center">
@@ -15,7 +15,6 @@
 ### 🧭 About Me
 I'm a final-year CS student building AI-powered applications and full-stack systems, with a growing focus on **computer vision, retrieval-augmented systems, and multimodal learning**. I like taking ML concepts from theory to working, deployable projects that solve real problems.
 
-- 🔭 Recently completed: MedInsight, a retrieval-augmented vision-language pipeline for medical image understanding
 - 📄 Independent research: three DOI-archived research preprints on Zenodo (links below)
 - 💬 Ask me about: computer vision, full-stack architecture, or retrieval-augmented systems
 
